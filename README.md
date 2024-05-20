@@ -1,1 +1,1 @@
-# Data_analysis_viz_projects
+# Data_analysis_python_projects_freecodecamp
